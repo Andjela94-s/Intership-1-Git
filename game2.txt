@@ -2,5 +2,5 @@ Andela ima 0 pobijeda i 0 poraza!
 Ena ima 0 pobjeda i 0 poraza!
 
 .   .   .
-.   X   .
+.   X   O
 .   .   .
